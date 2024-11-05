@@ -16,7 +16,7 @@
       "groomed": 80,
       "ungroomed": 20
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortInJapan/main/神居滑雪場.png"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "二世谷滑雪場",
@@ -35,7 +35,7 @@
       "groomed": 70,
       "ungroomed": 30
     },
-    "mapUrl": "https://example.com/niseko.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "白馬八方尾根滑雪場",
@@ -54,7 +54,7 @@
       "groomed": 75,
       "ungroomed": 25
     },
-    "mapUrl": "https://example.com/hakuba.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "妙高杉之原滑雪場",
@@ -73,7 +73,7 @@
       "groomed": 60,
       "ungroomed": 40
     },
-    "mapUrl": "https://example.com/myoko.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "藏王溫泉滑雪場",
@@ -92,7 +92,7 @@
       "groomed": 65,
       "ungroomed": 35
     },
-    "mapUrl": "https://example.com/zao.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "富良野滑雪場",
@@ -111,7 +111,7 @@
       "groomed": 85,
       "ungroomed": 15
     },
-    "mapUrl": "https://example.com/furano.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "月山滑雪場",
@@ -130,7 +130,7 @@
       "groomed": 60,
       "ungroomed": 40
     },
-    "mapUrl": "https://example.com/gassan.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "赤倉溫泉滑雪場",
@@ -149,7 +149,7 @@
       "groomed": 75,
       "ungroomed": 25
     },
-    "mapUrl": "https://example.com/akakura.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "苗場滑雪場",
@@ -168,7 +168,7 @@
       "groomed": 80,
       "ungroomed": 20
     },
-    "mapUrl": "https://example.com/naeba.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "栂池高原滑雪場",
@@ -187,7 +187,7 @@
       "groomed": 85,
       "ungroomed": 15
     },
-    "mapUrl": "https://example.com/tsugaike.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "志賀高原滑雪場",
@@ -206,7 +206,7 @@
       "groomed": 70,
       "ungroomed": 30
     },
-    "mapUrl": "https://example.com/shiga.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "安比高原滑雪場",
@@ -225,7 +225,7 @@
       "groomed": 85,
       "ungroomed": 15
     },
-    "mapUrl": "https://example.com/appi.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "妙高池之平滑雪場",
@@ -244,7 +244,7 @@
       "groomed": 70,
       "ungroomed": 30
     },
-    "mapUrl": "https://example.com/ikenotaira.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "八甲田滑雪場",
@@ -263,7 +263,7 @@
       "groomed": 50,
       "ungroomed": 50
     },
-    "mapUrl": "https://example.com/hakkoda.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   },
   {
     "name": "鹿島槍滑雪場",
@@ -282,6 +282,6 @@
       "groomed": 80,
       "ungroomed": 20
     },
-    "mapUrl": "https://example.com/kashimayari.jpg"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png"
   }
 ]
