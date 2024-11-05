@@ -1,0 +1,287 @@
+[
+  {
+    "name": "神居滑雪場",
+    "description": "神居滑雪場位於北海道旭川市，以細膩粉雪和壯麗雪景聞名",
+    "trail_count": 25,
+    "lift_count": 6,
+    "elevation": "150-751m",
+    "max_slope": 35,
+    "longest_run": 5300,
+    "trail_difficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trail_composition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "map_url": "https://raw.githubusercontent.com/ggisfun/SkiResortInJapan/main/神居滑雪場.jpg"
+  },
+  {
+    "name": "二世谷滑雪場",
+    "description": "位於北海道二世谷，以豐富的粉雪和多樣的雪道著稱，適合各種水平的滑雪者",
+    "trail_count": 47,
+    "lift_count": 16,
+    "elevation": "300-1200m",
+    "max_slope": 32,
+    "longest_run": 5600,
+    "trail_difficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trail_composition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "map_url": "https://example.com/niseko.jpg"
+  },
+  {
+    "name": "白馬八方尾根滑雪場",
+    "description": "長野縣最受歡迎的滑雪場之一，擁有美麗的阿爾卑斯山景色，滑雪道挑戰性高",
+    "trail_count": 25,
+    "lift_count": 13,
+    "elevation": "800-1830m",
+    "max_slope": 35,
+    "longest_run": 8000,
+    "trail_difficulty": {
+      "beginner": 30,
+      "intermediate": 50,
+      "advanced": 20
+    },
+    "trail_composition": {
+      "groomed": 75,
+      "ungroomed": 25
+    },
+    "map_url": "https://example.com/hakuba.jpg"
+  },
+  {
+    "name": "妙高杉之原滑雪場",
+    "description": "新潟縣的滑雪勝地，以長雪道和豐富的粉雪聞名，適合喜愛長滑行距離的滑雪者",
+    "trail_count": 17,
+    "lift_count": 5,
+    "elevation": "700-1855m",
+    "max_slope": 38,
+    "longest_run": 8500,
+    "trail_difficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trail_composition": {
+      "groomed": 60,
+      "ungroomed": 40
+    },
+    "map_url": "https://example.com/myoko.jpg"
+  },
+  {
+    "name": "藏王溫泉滑雪場",
+    "description": "位於山形縣，以著名的樹冰景觀和溫泉設施聞名，適合滑雪與放鬆結合的旅程",
+    "trail_count": 30,
+    "lift_count": 41,
+    "elevation": "800-1661m",
+    "max_slope": 38,
+    "longest_run": 9000,
+    "trail_difficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trail_composition": {
+      "groomed": 65,
+      "ungroomed": 35
+    },
+    "map_url": "https://example.com/zao.jpg"
+  },
+  {
+    "name": "富良野滑雪場",
+    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
+    "trail_count": 24,
+    "lift_count": 11,
+    "elevation": "245-1074m",
+    "max_slope": 34,
+    "longest_run": 4000,
+    "trail_difficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trail_composition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "map_url": "https://example.com/furano.jpg"
+  },
+  {
+    "name": "月山滑雪場",
+    "description": "位於山形縣，以春雪滑雪著稱，是日本少數開放至夏季的滑雪場",
+    "trail_count": 7,
+    "lift_count": 2,
+    "elevation": "960-1670m",
+    "max_slope": 32,
+    "longest_run": 2400,
+    "trail_difficulty": {
+      "beginner": 10,
+      "intermediate": 40,
+      "advanced": 50
+    },
+    "trail_composition": {
+      "groomed": 60,
+      "ungroomed": 40
+    },
+    "map_url": "https://example.com/gassan.jpg"
+  },
+  {
+    "name": "赤倉溫泉滑雪場",
+    "description": "新潟縣的滑雪場，以多樣的雪道選擇和豐富的溫泉設施聞名",
+    "trail_count": 17,
+    "lift_count": 9,
+    "elevation": "700-1500m",
+    "max_slope": 33,
+    "longest_run": 4500,
+    "trail_difficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trail_composition": {
+      "groomed": 75,
+      "ungroomed": 25
+    },
+    "map_url": "https://example.com/akakura.jpg"
+  },
+  {
+    "name": "苗場滑雪場",
+    "description": "位於新潟縣，是歷史悠久的滑雪場，以雪量豐富和高品質雪質著稱",
+    "trail_count": 20,
+    "lift_count": 13,
+    "elevation": "900-1795m",
+    "max_slope": 30,
+    "longest_run": 4000,
+    "trail_difficulty": {
+      "beginner": 40,
+      "intermediate": 30,
+      "advanced": 30
+    },
+    "trail_composition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "map_url": "https://example.com/naeba.jpg"
+  },
+  {
+    "name": "栂池高原滑雪場",
+    "description": "位於長野縣，適合家庭和初學者的滑雪場，擁有多樣的雪道設施",
+    "trail_count": 18,
+    "lift_count": 13,
+    "elevation": "800-1830m",
+    "max_slope": 25,
+    "longest_run": 5000,
+    "trail_difficulty": {
+      "beginner": 50,
+      "intermediate": 40,
+      "advanced": 10
+    },
+    "trail_composition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "map_url": "https://example.com/tsugaike.jpg"
+  },
+  {
+    "name": "志賀高原滑雪場",
+    "description": "位於長野縣，是日本最大的滑雪度假村之一，擁有豐富的雪道選擇",
+    "trail_count": 80,
+    "lift_count": 52,
+    "elevation": "1340-2307m",
+    "max_slope": 40,
+    "longest_run": 6000,
+    "trail_difficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trail_composition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "map_url": "https://example.com/shiga.jpg"
+  },
+  {
+    "name": "安比高原滑雪場",
+    "description": "位於岩手縣，以乾粉雪質和開闊的雪道聞名，是家庭旅遊的理想地點",
+    "trail_count": 21,
+    "lift_count": 9,
+    "elevation": "600-1305m",
+    "max_slope": 32,
+    "longest_run": 5500,
+    "trail_difficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trail_composition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "map_url": "https://example.com/appi.jpg"
+  },
+  {
+    "name": "妙高池之平滑雪場",
+    "description": "位於新潟縣，以大範圍的雪場和豐富的自然景觀聞名",
+    "trail_count": 23,
+    "lift_count": 11,
+    "elevation": "700-1500m",
+    "max_slope": 34,
+    "longest_run": 5000,
+    "trail_difficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trail_composition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "map_url": "https://example.com/ikenotaira.jpg"
+  },
+  {
+    "name": "八甲田滑雪場",
+    "description": "位於青森縣，以雪量豐富和大範圍的越野滑雪場地聞名",
+    "trail_count": 9,
+    "lift_count": 4,
+    "elevation": "650-1585m",
+    "max_slope": 30,
+    "longest_run": 3000,
+    "trail_difficulty": {
+      "beginner": 20,
+      "intermediate": 40,
+      "advanced": 40
+    },
+    "trail_composition": {
+      "groomed": 50,
+      "ungroomed": 50
+    },
+    "map_url": "https://example.com/hakkoda.jpg"
+  },
+  {
+    "name": "鹿島槍滑雪場",
+    "description": "位於長野縣，以高山景觀和多樣的滑雪道聞名，適合所有滑雪水平",
+    "trail_count": 22,
+    "lift_count": 6,
+    "elevation": "830-1550m",
+    "max_slope": 37,
+    "longest_run": 4600,
+    "trail_difficulty": {
+      "beginner": 35,
+      "intermediate": 45,
+      "advanced": 20
+    },
+    "trail_composition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "map_url": "https://example.com/kashimayari.jpg"
+  }
+]
