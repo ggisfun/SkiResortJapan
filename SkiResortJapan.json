@@ -4,7 +4,7 @@
     "description": "神居滑雪場位於北海道旭川市，以細膩粉雪和壯麗雪景聞名，適合各層次滑雪者。滑雪場擁有多條難度不同的滑道，並提供滑雪裝備租賃和專業課程。從旭川市區出發僅需約30分鐘車程，交通便利。滑雪季從12月至次年3月，最佳雪況在1至2月。場內設有餐廳，並不定期舉辦夜間滑雪等活動，周邊有旭山動物園和溫泉等，適合家庭和朋友同遊。",
     "trailCount": 25,
     "liftCount": 6,
-    "elevation": "150-751m",
+    "elevation": "150-751",
     "maxSlope": 35,
     "longestRun": 5300,
     "trailDifficulty": {
@@ -24,7 +24,7 @@
     "description": "位於北海道二世谷，以豐富的粉雪和多樣的雪道著稱，適合各種水平的滑雪者",
     "trailCount": 47,
     "liftCount": 16,
-    "elevation": "300-1200m",
+    "elevation": "300-1200",
     "maxSlope": 32,
     "longestRun": 5600,
     "trailDifficulty": {
@@ -44,7 +44,7 @@
     "description": "長野縣最受歡迎的滑雪場之一，擁有美麗的阿爾卑斯山景色，滑雪道挑戰性高",
     "trailCount": 25,
     "liftCount": 13,
-    "elevation": "800-1830m",
+    "elevation": "800-1830",
     "maxSlope": 35,
     "longestRun": 8000,
     "trailDifficulty": {
@@ -64,7 +64,7 @@
     "description": "新潟縣的滑雪勝地，以長雪道和豐富的粉雪聞名，適合喜愛長滑行距離的滑雪者",
     "trailCount": 17,
     "liftCount": 5,
-    "elevation": "700-1855m",
+    "elevation": "700-1855",
     "maxSlope": 38,
     "longestRun": 8500,
     "trailDifficulty": {
@@ -84,7 +84,7 @@
     "description": "位於山形縣，以著名的樹冰景觀和溫泉設施聞名，適合滑雪與放鬆結合的旅程",
     "trailCount": 30,
     "liftCount": 41,
-    "elevation": "800-1661m",
+    "elevation": "800-1661",
     "maxSlope": 38,
     "longestRun": 9000,
     "trailDifficulty": {
@@ -104,7 +104,7 @@
     "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
     "trailCount": 24,
     "liftCount": 11,
-    "elevation": "245-1074m",
+    "elevation": "245-1074",
     "maxSlope": 34,
     "longestRun": 4000,
     "trailDifficulty": {
@@ -124,7 +124,7 @@
     "description": "位於山形縣，以春雪滑雪著稱，是日本少數開放至夏季的滑雪場",
     "trailCount": 7,
     "liftCount": 2,
-    "elevation": "960-1670m",
+    "elevation": "960-1670",
     "maxSlope": 32,
     "longestRun": 2400,
     "trailDifficulty": {
@@ -144,7 +144,7 @@
     "description": "新潟縣的滑雪場，以多樣的雪道選擇和豐富的溫泉設施聞名",
     "trailCount": 17,
     "liftCount": 9,
-    "elevation": "700-1500m",
+    "elevation": "700-1500",
     "maxSlope": 33,
     "longestRun": 4500,
     "trailDifficulty": {
@@ -164,7 +164,7 @@
     "description": "位於新潟縣，是歷史悠久的滑雪場，以雪量豐富和高品質雪質著稱",
     "trailCount": 20,
     "liftCount": 13,
-    "elevation": "900-1795m",
+    "elevation": "900-1795",
     "maxSlope": 30,
     "longestRun": 4000,
     "trailDifficulty": {
@@ -184,7 +184,7 @@
     "description": "位於長野縣，適合家庭和初學者的滑雪場，擁有多樣的雪道設施",
     "trailCount": 18,
     "liftCount": 13,
-    "elevation": "800-1830m",
+    "elevation": "800-1830",
     "maxSlope": 25,
     "longestRun": 5000,
     "trailDifficulty": {
@@ -204,7 +204,7 @@
     "description": "位於長野縣，是日本最大的滑雪度假村之一，擁有豐富的雪道選擇",
     "trailCount": 80,
     "liftCount": 52,
-    "elevation": "1340-2307m",
+    "elevation": "1340-2307",
     "maxSlope": 40,
     "longestRun": 6000,
     "trailDifficulty": {
@@ -224,7 +224,7 @@
     "description": "位於岩手縣，以乾粉雪質和開闊的雪道聞名，是家庭旅遊的理想地點",
     "trailCount": 21,
     "liftCount": 9,
-    "elevation": "600-1305m",
+    "elevation": "600-1305",
     "maxSlope": 32,
     "longestRun": 5500,
     "trailDifficulty": {
@@ -244,7 +244,7 @@
     "description": "位於新潟縣，以大範圍的雪場和豐富的自然景觀聞名",
     "trailCount": 23,
     "liftCount": 11,
-    "elevation": "700-1500m",
+    "elevation": "700-1500",
     "maxSlope": 34,
     "longestRun": 5000,
     "trailDifficulty": {
@@ -264,7 +264,7 @@
     "description": "位於青森縣，以雪量豐富和大範圍的越野滑雪場地聞名",
     "trailCount": 9,
     "liftCount": 4,
-    "elevation": "650-1585m",
+    "elevation": "650-1585",
     "maxSlope": 30,
     "longestRun": 3000,
     "trailDifficulty": {
@@ -284,7 +284,7 @@
     "description": "位於長野縣，以高山景觀和多樣的滑雪道聞名，適合所有滑雪水平",
     "trailCount": 22,
     "liftCount": 6,
-    "elevation": "830-1550m",
+    "elevation": "830-1550",
     "maxSlope": 37,
     "longestRun": 4600,
     "trailDifficulty": {
