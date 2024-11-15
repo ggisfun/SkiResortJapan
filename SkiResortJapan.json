@@ -1,5 +1,165 @@
 [
   {
+    "name": "新雪谷安努普利國際滑雪場",
+    "description": "新雪谷安努普利國際滑雪場位於日本北海道，是著名的新雪谷地區四大滑雪場之一，以優質粉雪和多樣化的雪道而聞名。滑雪場擁有適合各種滑雪者的雪道，從初學者到專業滑雪者皆能找到合適的挑戰。冬季期間，雪質極佳、降雪量豐富，吸引了眾多國內外滑雪愛好者。此外，滑雪場周邊設有溫泉、餐廳及住宿設施，提供豐富的休閒體驗，是滑雪與休閒度假的理想之地。",
+    "trailCount": 47,
+    "liftCount": 16,
+    "elevation": "300-1200",
+    "maxSlope": 32,
+    "longestRun": 5600,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.kamui-skilinks.com/"
+  },
+  {
+    "name": "新雪谷渡假村",
+    "description": "新雪谷渡假村擁有豐富的滑雪和度假設施。此滑雪場以優質的雪道和進階滑雪挑戰著稱，吸引了各級滑雪者。滑雪場周圍有高端飯店和餐廳，以及水療和購物等設施，讓旅客能夠體驗極致的滑雪與放鬆之旅，是尋求高品質度假的滑雪愛好者的首選。",
+    "trailCount": 47,
+    "liftCount": 16,
+    "elevation": "300-1200",
+    "maxSlope": 32,
+    "longestRun": 5600,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.kamui-skilinks.com/"
+  },
+  {
+    "name": "新雪谷格蘭比羅夫滑雪場",
+    "description": "新雪谷地區最大的滑雪場，擁有最多的雪道選擇和多樣化的地形，適合不同技術水平的滑雪者。這裡的滑雪設施完善，包括夜間滑雪和雪板公園，讓滑雪活動持續到晚間。滑雪場內還有多樣的餐飲選擇和熱鬧的村莊氛圍，使滑雪者能享受白天滑雪、晚上放鬆的完整假期。",
+    "trailCount": 47,
+    "liftCount": 16,
+    "elevation": "300-1200",
+    "maxSlope": 32,
+    "longestRun": 5600,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.kamui-skilinks.com/"
+  },
+  {
+    "name": "新雪谷花園渡假村",
+    "description": "新雪谷花園渡假村以其創新的滑雪設施和優質粉雪著稱，特別受到單板滑雪者和進階滑雪者的青睞。這裡有多條挑戰性雪道、跳躍設施和滑雪公園，為滑雪冒險提供無限可能。滑雪場也提供專業的滑雪學校和兒童活動，吸引家庭旅客。周邊設有餐廳和露天溫泉，讓滑雪者在運動後可以放鬆身心，享受冬季度假的愜意。",
+    "trailCount": 47,
+    "liftCount": 16,
+    "elevation": "300-1200",
+    "maxSlope": 32,
+    "longestRun": 5600,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.kamui-skilinks.com/"
+  },
+  {
+    "name": "富良野滑雪場",
+    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
+    "trailCount": 24,
+    "liftCount": 11,
+    "elevation": "245-1074",
+    "maxSlope": 34,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+  },
+  {
+    "name": "喜樂樂滑雪度假村",
+    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
+    "trailCount": 24,
+    "liftCount": 11,
+    "elevation": "245-1074",
+    "maxSlope": 34,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+  },
+  {
+    "name": "留壽都度假村",
+    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
+    "trailCount": 24,
+    "liftCount": 11,
+    "elevation": "245-1074",
+    "maxSlope": 34,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+  },
+  {
+    "name": "札幌國際滑雪場",
+    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
+    "trailCount": 24,
+    "liftCount": 11,
+    "elevation": "245-1074",
+    "maxSlope": 34,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 85,
+      "ungroomed": 15
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+  },
+  {
     "name": "神居滑雪場",
     "description": "神居滑雪場位於北海道旭川市，以細膩粉雪和壯麗雪景聞名，適合各層次滑雪者。滑雪場擁有多條難度不同的滑道，並提供滑雪裝備租賃和專業課程。從旭川市區出發僅需約30分鐘車程，交通便利。滑雪季從12月至次年3月，最佳雪況在1至2月。場內設有餐廳，並不定期舉辦夜間滑雪等活動，周邊有旭山動物園和溫泉等，適合家庭和朋友同遊。",
     "trailCount": 25,
@@ -15,26 +175,6 @@
     "trailComposition": {
       "groomed": 80,
       "ungroomed": 20
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
-  },
-  {
-    "name": "二世谷滑雪場",
-    "description": "位於北海道二世谷，以豐富的粉雪和多樣的雪道著稱，適合各種水平的滑雪者",
-    "trailCount": 47,
-    "liftCount": 16,
-    "elevation": "300-1200",
-    "maxSlope": 32,
-    "longestRun": 5600,
-    "trailDifficulty": {
-      "beginner": 30,
-      "intermediate": 40,
-      "advanced": 30
-    },
-    "trailComposition": {
-      "groomed": 70,
-      "ungroomed": 30
     },
     "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
     "websiteUrl": "https://www.kamui-skilinks.com/"
@@ -98,26 +238,6 @@
     },
     "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
     "websiteUrl": "https://zaomountainresort.com/ski/"
-  },
-  {
-    "name": "富良野滑雪場",
-    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
-    "trailCount": 24,
-    "liftCount": 11,
-    "elevation": "245-1074",
-    "maxSlope": 34,
-    "longestRun": 4000,
-    "trailDifficulty": {
-      "beginner": 30,
-      "intermediate": 40,
-      "advanced": 30
-    },
-    "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
   },
   {
     "name": "月山滑雪場",
