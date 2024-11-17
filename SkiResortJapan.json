@@ -1,10 +1,10 @@
 [
   {
     "name": "新雪谷安努普利國際滑雪場",
-    "description": "新雪谷安努普利國際滑雪場位於日本北海道，是著名的新雪谷地區四大滑雪場之一，以優質粉雪和多樣化的雪道而聞名。滑雪場擁有適合各種滑雪者的雪道，從初學者到專業滑雪者皆能找到合適的挑戰。冬季期間，雪質極佳、降雪量豐富，吸引了眾多國內外滑雪愛好者。此外，滑雪場周邊設有溫泉、餐廳及住宿設施，提供豐富的休閒體驗，是滑雪與休閒度假的理想之地。",
+    "description": "新雪谷安努普利國際滑雪場100字簡介",
     "trailCount": 13,
     "liftCount": 6,
-    "elevation": "400-1156",
+    "elevation": "400-1156m",
     "maxSlope": 34,
     "longestRun": 4000,
     "trailDifficulty": {
@@ -16,35 +16,35 @@
       "groomed": 85,
       "ungroomed": 15
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/新雪谷安努普利國際滑雪場.png",
     "websiteUrl": "https://annupuri.info/"
   },
   {
-    "name": "新雪谷渡假村",
-    "description": "新雪谷渡假村擁有豐富的滑雪和度假設施。此滑雪場以優質的雪道和進階滑雪挑戰著稱，吸引了各級滑雪者。滑雪場周圍有高端飯店和餐廳，以及水療和購物等設施，讓旅客能夠體驗極致的滑雪與放鬆之旅，是尋求高品質度假的滑雪愛好者的首選。",
-    "trailCount": 30,
-    "liftCount": 12,
-    "elevation": "280-1170",
-    "maxSlope": 35,
-    "longestRun": 5500,
+    "name": "新雪谷花園滑雪渡假村",
+    "description": "新雪谷花園滑雪渡假村100字簡介",
+    "trailCount": 12,
+    "liftCount": 4,
+    "elevation": "308-1308m",
+    "maxSlope": 30,
+    "longestRun": 4550,
     "trailDifficulty": {
-      "beginner": 50,
-      "intermediate": 23,
-      "advanced": 27
+      "beginner": 25,
+      "intermediate": 63,
+      "advanced": 12
     },
     "trailComposition": {
-      "groomed": 65,
-      "ungroomed": 35
+      "groomed": 73,
+      "ungroomed": 27
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.niseko-village.com/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/新雪谷花園滑雪渡假村.png",
+    "websiteUrl": "https://hanazononiseko.com/ja"
   },
   {
     "name": "新雪谷格蘭比羅夫滑雪場",
-    "description": "新雪谷地區最大的滑雪場，擁有最多的雪道選擇和多樣化的地形，適合不同技術水平的滑雪者。這裡的滑雪設施完善，包括夜間滑雪和雪板公園，讓滑雪活動持續到晚間。滑雪場內還有多樣的餐飲選擇和熱鬧的村莊氛圍，使滑雪者能享受白天滑雪、晚上放鬆的完整假期。",
+    "description": "新雪谷格蘭比羅夫滑雪場100字簡介",
     "trailCount": 22,
     "liftCount": 12,
-    "elevation": "240-1200",
+    "elevation": "260-1200m",
     "maxSlope": 40,
     "longestRun": 5300,
     "trailDifficulty": {
@@ -56,117 +56,177 @@
       "groomed": 65,
       "ungroomed": 35
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/新雪谷格蘭比羅夫滑雪場.png",
     "websiteUrl": "https://www.grand-hirafu.jp/"
   },
   {
-    "name": "新雪谷花園渡假村",
-    "description": "新雪谷花園渡假村以其創新的滑雪設施和優質粉雪著稱，特別受到單板滑雪者和進階滑雪者的青睞。這裡有多條挑戰性雪道、跳躍設施和滑雪公園，為滑雪冒險提供無限可能。滑雪場也提供專業的滑雪學校和兒童活動，吸引家庭旅客。周邊設有餐廳和露天溫泉，讓滑雪者在運動後可以放鬆身心，享受冬季度假的愜意。",
-    "trailCount": 3,
-    "liftCount": 8,
-    "elevation": "308-1308",
-    "maxSlope": 30,
-    "longestRun": 4500,
+    "name": "新雪谷村滑雪度假村",
+    "description": "新雪谷村滑雪度假村100字簡介",
+    "trailCount": 27,
+    "liftCount": 12,
+    "elevation": "280-1170m",
+    "maxSlope": 35,
+    "longestRun": 5500,
     "trailDifficulty": {
-      "beginner": 25,
-      "intermediate": 63,
-      "advanced": 12
+      "beginner": 50,
+      "intermediate": 23,
+      "advanced": 27
     },
     "trailComposition": {
-      "groomed": 73,
-      "ungroomed": 27
+      "groomed": 65,
+      "ungroomed": 35
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://hanazononiseko.com/ja"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/新雪谷村滑雪度假村.png",
+    "websiteUrl": "https://www.niseko-village.com/ja/"
   },
   {
     "name": "富良野滑雪場",
-    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
-    "trailCount": 24,
-    "liftCount": 11,
-    "elevation": "245-1074",
+    "description": "富良野滑雪場100字簡介",
+    "trailCount": 28,
+    "liftCount": 9,
+    "elevation": "235-1074m",
     "maxSlope": 34,
     "longestRun": 4000,
     "trailDifficulty": {
-      "beginner": 30,
+      "beginner": 40,
       "intermediate": 40,
-      "advanced": 30
+      "advanced": 20
     },
     "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
+      "groomed": 78,
+      "ungroomed": 22
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/富良野滑雪場.png",
+    "websiteUrl": "https://www.princehotels.co.jp/ski/furano/winter/"
   },
   {
-    "name": "喜樂樂滑雪度假村",
-    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
-    "trailCount": 24,
-    "liftCount": 11,
-    "elevation": "245-1074",
-    "maxSlope": 34,
-    "longestRun": 4000,
+    "name": "喜樂樂滑雪渡假村",
+    "description": "喜樂樂滑雪渡假村100字簡介",
+    "trailCount": 23,
+    "liftCount": 9,
+    "elevation": "570-1180m",
+    "maxSlope": 37,
+    "longestRun": 4050,
     "trailDifficulty": {
-      "beginner": 30,
-      "intermediate": 40,
-      "advanced": 30
+      "beginner": 33,
+      "intermediate": 29,
+      "advanced": 38
     },
     "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
+      "groomed": 77,
+      "ungroomed": 23
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/喜樂樂滑雪渡假村.png",
+    "websiteUrl": "https://www.kiroro.co.jp/ja/"
   },
   {
-    "name": "留壽都度假村",
-    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
-    "trailCount": 24,
-    "liftCount": 11,
-    "elevation": "245-1074",
-    "maxSlope": 34,
-    "longestRun": 4000,
+    "name": "留壽都滑雪渡假村",
+    "description": "留壽都滑雪渡假村100字簡介",
+    "trailCount": 37,
+    "liftCount": 18,
+    "elevation": "400-994m",
+    "maxSlope": 40,
+    "longestRun": 3500,
     "trailDifficulty": {
       "beginner": 30,
       "intermediate": 40,
       "advanced": 30
     },
     "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
+      "groomed": 60,
+      "ungroomed": 40
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/留壽都滑雪渡假村.png",
+    "websiteUrl": "https://rusutsu.com/rusutsu-in-winter/"
   },
   {
     "name": "札幌國際滑雪場",
-    "description": "位於北海道，以質量優良的粉雪和壯麗的山景著稱，適合各階層滑雪者",
-    "trailCount": 24,
-    "liftCount": 11,
-    "elevation": "245-1074",
-    "maxSlope": 34,
-    "longestRun": 4000,
+    "description": "札幌國際滑雪場100字簡介",
+    "trailCount": 7,
+    "liftCount": 4,
+    "elevation": "630-1100m",
+    "maxSlope": 30,
+    "longestRun": 3600,
     "trailDifficulty": {
       "beginner": 30,
-      "intermediate": 40,
-      "advanced": 30
+      "intermediate": 50,
+      "advanced": 20
     },
     "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
+      "groomed": 90,
+      "ungroomed": 10
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/furano/index.html"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/札幌國際滑雪場.png",
+    "websiteUrl": "https://www.sapporo-kokusai.jp/"
   },
   {
     "name": "神居滑雪場",
     "description": "神居滑雪場位於北海道旭川市，以細膩粉雪和壯麗雪景聞名，適合各層次滑雪者。滑雪場擁有多條難度不同的滑道，並提供滑雪裝備租賃和專業課程。從旭川市區出發僅需約30分鐘車程，交通便利。滑雪季從12月至次年3月，最佳雪況在1至2月。場內設有餐廳，並不定期舉辦夜間滑雪等活動，周邊有旭山動物園和溫泉等，適合家庭和朋友同遊。",
     "trailCount": 25,
     "liftCount": 6,
-    "elevation": "150-751",
+    "elevation": "150-751m",
     "maxSlope": 35,
-    "longestRun": 5300,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 32,
+      "intermediate": 36,
+      "advanced": 32
+    },
+    "trailComposition": {
+      "groomed": 68,
+      "ungroomed": 32
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "websiteUrl": "https://www.kamui-skilinks.com/"
+  },
+  {
+    "name": "星野滑雪渡假村",
+    "description": "星野滑雪渡假村100字簡介",
+    "trailCount": 29,
+    "liftCount": 6,
+    "elevation": "586-1171m",
+    "maxSlope": 35,
+    "longestRun": 4200,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 65,
+      "ungroomed": 35
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/星野滑雪渡假村.png",
+    "websiteUrl": "http://www.snowtomamu.jp/"
+  },
+  {
+    "name": "札幌手稻滑雪場",
+    "description": "札幌手稻滑雪場100字簡介",
+    "trailCount": 15,
+    "liftCount": 12,
+    "elevation": "340-1023m",
+    "maxSlope": 38,
+    "longestRun": 5700,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 90,
+      "ungroomed": 10
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/札幌手稻滑雪場.png",
+    "websiteUrl": "https://sapporo-teine.com/snow/"
+  },
+  {
+    "name": "藏王溫泉滑雪場",
+    "description": "藏王溫泉滑雪場100字簡介",
+    "trailCount": 24,
+    "liftCount": 29,
+    "elevation": "780-1660m",
+    "maxSlope": 38,
+    "longestRun": 10000,
     "trailDifficulty": {
       "beginner": 40,
       "intermediate": 40,
@@ -176,16 +236,316 @@
       "groomed": 80,
       "ungroomed": 20
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/藏王溫泉滑雪場.png",
+    "websiteUrl": "http://www.zao-ski.or.jp/"
+  },
+  {
+    "name": "神樂滑雪場",
+    "description": "神樂滑雪場100字簡介",
+    "trailCount": 32,
+    "liftCount": 18,
+    "elevation": "620-1845m",
+    "maxSlope": 32,
+    "longestRun": 6000,
+    "trailDifficulty": {
+      "beginner": 37,
+      "intermediate": 44,
+      "advanced": 19
+    },
+    "trailComposition": {
+      "groomed": 65,
+      "ungroomed": 35
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神樂滑雪場.png",
+    "websiteUrl": "http://www.princehotels.co.jp/ski/kagura/"
+  },
+  {
+    "name": "GALA湯澤滑雪場",
+    "description": "GALA湯澤滑雪場100字簡介",
+    "trailCount": 16,
+    "liftCount": 12,
+    "elevation": "358-1181m",
+    "maxSlope": 33,
+    "longestRun": 2500,
+    "trailDifficulty": {
+      "beginner": 25,
+      "intermediate": 75,
+      "advanced": 0
+    },
+    "trailComposition": {
+      "groomed": 75,
+      "ungroomed": 25
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/GALA湯澤滑雪場.png",
+    "websiteUrl": "https://gala.co.jp/winter/"
+  },
+  {
+    "name": "苗場滑雪場",
+    "description": "苗場滑雪場100字簡介",
+    "trailCount": 24,
+    "liftCount": 12,
+    "elevation": "900-1789m",
+    "maxSlope": 32,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 42,
+      "intermediate": 25,
+      "advanced": 33
+    },
+    "trailComposition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/苗場滑雪場.png",
+    "websiteUrl": "http://www.princehotels.co.jp/ski/naeba/"
+  },
+  {
+    "name": "赤倉溫泉滑雪場",
+    "description": "赤倉溫泉滑雪場100字簡介",
+    "trailCount": 17,
+    "liftCount": 14,
+    "elevation": "750-1250m",
+    "maxSlope": 43,
+    "longestRun": 3000,
+    "trailDifficulty": {
+      "beginner": 50,
+      "intermediate": 40,
+      "advanced": 10
+    },
+    "trailComposition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/赤倉溫泉滑雪場.png",
+    "websiteUrl": "http://www.akakura-ski.com/"
+  },
+  {
+    "name": "安比高原滑雪場",
+    "description": "安比高原滑雪場100字簡介",
+    "trailCount": 21,
+    "liftCount": 8,
+    "elevation": "634-1304m",
+    "maxSlope": 34,
+    "longestRun": 5500,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 60,
+      "ungroomed": 40
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/安比高原滑雪場.png",
+    "websiteUrl": "https://www.appi.co.jp/snow-mountain-resort/"
+  },
+  {
+    "name": "岩原滑雪場",
+    "description": "岩原滑雪場100字簡介",
+    "trailCount": 20,
+    "liftCount": 9,
+    "elevation": "400-985m",
+    "maxSlope": 35,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trailComposition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/岩原滑雪場.png",
+    "websiteUrl": "http://www.iwa-ppara.com/"
+  },
+  {
+    "name": "野澤溫泉滑雪場",
+    "description": "野澤溫泉滑雪場100字簡介",
+    "trailCount": 43,
+    "liftCount": 16,
+    "elevation": "565-1560m",
+    "maxSlope": 39,
+    "longestRun": 10000,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 30,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/野澤溫泉滑雪場.png",
+    "websiteUrl": "https://www.nozawaski.com/"
+  },
+  {
+    "name": "舞子滑雪場",
+    "description": "舞子滑雪場100字簡介",
+    "trailCount": 26,
+    "liftCount": 13,
+    "elevation": "260-920m",
+    "maxSlope": 32,
+    "longestRun": 6000,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/舞子滑雪場.png",
+    "websiteUrl": "https://www.maiko-resort.com/"
+  },
+  {
+    "name": "上越國際滑雪場",
+    "description": "上越國際滑雪場100字簡介",
+    "trailCount": 32,
+    "liftCount": 18,
+    "elevation": "620-1845m",
+    "maxSlope": 32,
+    "longestRun": 6000,
+    "trailDifficulty": {
+      "beginner": 37,
+      "intermediate": 44,
+      "advanced": 19
+    },
+    "trailComposition": {
+      "groomed": 65,
+      "ungroomed": 35
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/上越國際滑雪場.png",
+    "websiteUrl": "http://www.jkokusai.co.jp/"
+  },
+  {
+    "name": "石打丸山滑雪場",
+    "description": "石打丸山滑雪場100字簡介",
+    "trailCount": 23,
+    "liftCount": 13,
+    "elevation": "256-920m",
+    "maxSlope": 33,
+    "longestRun": 4000,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/石打丸山滑雪場.png",
+    "websiteUrl": "http://www.ishiuchi.or.jp/"
+  },
+  {
+    "name": "神立高原滑雪場",
+    "description": "神立高原滑雪場100字簡介",
+    "trailCount": 16,
+    "liftCount": 6,
+    "elevation": "460-1000m",
+    "maxSlope": 45,
+    "longestRun": 3500,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 40,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 50,
+      "ungroomed": 50
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神立高原滑雪場.png",
+    "websiteUrl": "https://www.kandatsu.com/"
+  },
+  {
+    "name": "NASPA滑雪場",
+    "description": "NASPA滑雪場100字簡介",
+    "trailCount": 8,
+    "liftCount": 5,
+    "elevation": "430-690m",
+    "maxSlope": 38,
+    "longestRun": 2200,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 30,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/NASPA滑雪場.png",
+    "websiteUrl": "http://www.naspa.co.jp/ski"
+  },
+  {
+    "name": "湯澤高原滑雪場",
+    "description": "湯澤高原滑雪場100字簡介",
+    "trailCount": 8,
+    "liftCount": 7,
+    "elevation": "370-1170m",
+    "maxSlope": 28,
+    "longestRun": 5000,
+    "trailDifficulty": {
+      "beginner": 50,
+      "intermediate": 20,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 90,
+      "ungroomed": 10
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/湯澤高原滑雪場.png",
+    "websiteUrl": "http://www.yuzawakogen.com/"
+  },
+  {
+    "name": "湯澤中里滑雪場",
+    "description": "湯澤中里滑雪場100字簡介",
+    "trailCount": 16,
+    "liftCount": 7,
+    "elevation": "458-702m",
+    "maxSlope": 32,
+    "longestRun": 2000,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 30,
+      "advanced": 30
+    },
+    "trailComposition": {
+      "groomed": 67,
+      "ungroomed": 33
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/湯澤中里滑雪場.png",
+    "websiteUrl": "https://www.yuzawa-nakazato.com/"
+  },
+  {
+    "name": "雫石滑雪場",
+    "description": "雫石滑雪場100字簡介",
+    "trailCount": 20,
+    "liftCount": 6,
+    "elevation": "426-1128m",
+    "maxSlope": 33,
+    "longestRun": 2648,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trailComposition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/雫石滑雪場.png",
+    "websiteUrl": "http://www.princehotels.co.jp/ski/shizukuishi/"
   },
   {
     "name": "白馬八方尾根滑雪場",
-    "description": "長野縣最受歡迎的滑雪場之一，擁有美麗的阿爾卑斯山景色，滑雪道挑戰性高",
-    "trailCount": 25,
-    "liftCount": 13,
-    "elevation": "800-1830",
-    "maxSlope": 35,
+    "description": "白馬八方尾根滑雪場100字簡介",
+    "trailCount": 16,
+    "liftCount": 20,
+    "elevation": "760-1831m",
+    "maxSlope": 37,
     "longestRun": 8000,
     "trailDifficulty": {
       "beginner": 30,
@@ -193,18 +553,18 @@
       "advanced": 20
     },
     "trailComposition": {
-      "groomed": 75,
-      "ungroomed": 25
+      "groomed": 70,
+      "ungroomed": 30
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/白馬八方尾根滑雪場.png",
     "websiteUrl": "https://www.happo-one.jp/"
   },
   {
     "name": "妙高杉之原滑雪場",
-    "description": "新潟縣的滑雪勝地，以長雪道和豐富的粉雪聞名，適合喜愛長滑行距離的滑雪者",
-    "trailCount": 17,
+    "description": "妙高杉之原滑雪場100字簡介",
+    "trailCount": 16,
     "liftCount": 5,
-    "elevation": "700-1855",
+    "elevation": "731-1855m",
     "maxSlope": 38,
     "longestRun": 8500,
     "trailDifficulty": {
@@ -213,210 +573,150 @@
       "advanced": 20
     },
     "trailComposition": {
-      "groomed": 60,
-      "ungroomed": 40
+      "groomed": 80,
+      "ungroomed": 20
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.princehotels.com/zh-hant/ski/myoko_kogen/index.html"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/妙高杉之原滑雪場.png",
+    "websiteUrl": "http://www.princehotels.co.jp/ski/myoko/"
   },
   {
-    "name": "藏王溫泉滑雪場",
-    "description": "位於山形縣，以著名的樹冰景觀和溫泉設施聞名，適合滑雪與放鬆結合的旅程",
-    "trailCount": 30,
-    "liftCount": 41,
-    "elevation": "800-1661",
-    "maxSlope": 38,
-    "longestRun": 9000,
+    "name": "栂池高原滑雪場",
+    "description": "栂池高原滑雪場100字簡介",
+    "trailCount": 9,
+    "liftCount": 18,
+    "elevation": "800-1704m",
+    "maxSlope": 35,
+    "longestRun": 4900,
     "trailDifficulty": {
-      "beginner": 40,
-      "intermediate": 40,
+      "beginner": 50,
+      "intermediate": 30,
       "advanced": 20
     },
     "trailComposition": {
-      "groomed": 65,
-      "ungroomed": 35
+      "groomed": 70,
+      "ungroomed": 30
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://zaomountainresort.com/ski/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/栂池高原滑雪場.png",
+    "websiteUrl": "https://www.tsugaike.gr.jp/"
   },
   {
-    "name": "月山滑雪場",
-    "description": "位於山形縣，以春雪滑雪著稱，是日本少數開放至夏季的滑雪場",
-    "trailCount": 7,
-    "liftCount": 2,
-    "elevation": "960-1670",
-    "maxSlope": 32,
-    "longestRun": 2400,
+    "name": "白馬乘鞍溫泉滑雪場",
+    "description": "白馬乘鞍溫泉滑雪場100字簡介",
+    "trailCount": 12,
+    "liftCount": 9,
+    "elevation": "700-1300m",
+    "maxSlope": 38,
+    "longestRun": 2500,
     "trailDifficulty": {
-      "beginner": 10,
-      "intermediate": 40,
-      "advanced": 50
+      "beginner": 20,
+      "intermediate": 50,
+      "advanced": 30
     },
     "trailComposition": {
-      "groomed": 60,
-      "ungroomed": 40
+      "groomed": 70,
+      "ungroomed": 30
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/白馬乘鞍溫泉滑雪場.png",
+    "websiteUrl": "https://www.hakunori.com/"
   },
   {
-    "name": "赤倉溫泉滑雪場",
-    "description": "新潟縣的滑雪場，以多樣的雪道選擇和豐富的溫泉設施聞名",
-    "trailCount": 17,
-    "liftCount": 9,
-    "elevation": "700-1500",
-    "maxSlope": 33,
-    "longestRun": 4500,
+    "name": "白馬五龍滑雪場",
+    "description": "白馬五龍滑雪場100字簡介",
+    "trailCount": 16,
+    "liftCount": 14,
+    "elevation": "750-1676m",
+    "maxSlope": 35,
+    "longestRun": 5000,
     "trailDifficulty": {
-      "beginner": 30,
+      "beginner": 35,
       "intermediate": 40,
-      "advanced": 30
+      "advanced": 25
     },
     "trailComposition": {
       "groomed": 75,
       "ungroomed": 25
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/白馬五龍滑雪場.png",
+    "websiteUrl": "http://www.hakubaescal.com/"
   },
   {
-    "name": "苗場滑雪場",
-    "description": "位於新潟縣，是歷史悠久的滑雪場，以雪量豐富和高品質雪質著稱",
-    "trailCount": 20,
-    "liftCount": 13,
-    "elevation": "900-1795",
+    "name": "奧志賀高原滑雪場",
+    "description": "奧志賀高原滑雪場100字簡介",
+    "trailCount": 10,
+    "liftCount": 6,
+    "elevation": "1470-2000m",
     "maxSlope": 30,
-    "longestRun": 4000,
-    "trailDifficulty": {
-      "beginner": 40,
-      "intermediate": 30,
-      "advanced": 30
-    },
-    "trailComposition": {
-      "groomed": 80,
-      "ungroomed": 20
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
-  },
-  {
-    "name": "栂池高原滑雪場",
-    "description": "位於長野縣，適合家庭和初學者的滑雪場，擁有多樣的雪道設施",
-    "trailCount": 18,
-    "liftCount": 13,
-    "elevation": "800-1830",
-    "maxSlope": 25,
-    "longestRun": 5000,
-    "trailDifficulty": {
-      "beginner": 50,
-      "intermediate": 40,
-      "advanced": 10
-    },
-    "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
-  },
-  {
-    "name": "志賀高原滑雪場",
-    "description": "位於長野縣，是日本最大的滑雪度假村之一，擁有豐富的雪道選擇",
-    "trailCount": 80,
-    "liftCount": 52,
-    "elevation": "1340-2307",
-    "maxSlope": 40,
-    "longestRun": 6000,
-    "trailDifficulty": {
-      "beginner": 30,
-      "intermediate": 40,
-      "advanced": 30
-    },
-    "trailComposition": {
-      "groomed": 70,
-      "ungroomed": 30
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
-  },
-  {
-    "name": "安比高原滑雪場",
-    "description": "位於岩手縣，以乾粉雪質和開闊的雪道聞名，是家庭旅遊的理想地點",
-    "trailCount": 21,
-    "liftCount": 9,
-    "elevation": "600-1305",
-    "maxSlope": 32,
-    "longestRun": 5500,
-    "trailDifficulty": {
-      "beginner": 30,
-      "intermediate": 40,
-      "advanced": 30
-    },
-    "trailComposition": {
-      "groomed": 85,
-      "ungroomed": 15
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
-  },
-  {
-    "name": "妙高池之平滑雪場",
-    "description": "位於新潟縣，以大範圍的雪場和豐富的自然景觀聞名",
-    "trailCount": 23,
-    "liftCount": 11,
-    "elevation": "700-1500",
-    "maxSlope": 34,
-    "longestRun": 5000,
-    "trailDifficulty": {
-      "beginner": 40,
-      "intermediate": 40,
-      "advanced": 20
-    },
-    "trailComposition": {
-      "groomed": 70,
-      "ungroomed": 30
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
-  },
-  {
-    "name": "八甲田滑雪場",
-    "description": "位於青森縣，以雪量豐富和大範圍的越野滑雪場地聞名",
-    "trailCount": 9,
-    "liftCount": 4,
-    "elevation": "650-1585",
-    "maxSlope": 30,
-    "longestRun": 3000,
+    "longestRun": 2200,
     "trailDifficulty": {
       "beginner": 20,
-      "intermediate": 40,
-      "advanced": 40
+      "intermediate": 60,
+      "advanced": 20
     },
     "trailComposition": {
-      "groomed": 50,
-      "ungroomed": 50
+      "groomed": 90,
+      "ungroomed": 10
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/奧志賀高原滑雪場.png",
+    "websiteUrl": "http://www.okushiga.jp/"
   },
   {
-    "name": "鹿島槍滑雪場",
-    "description": "位於長野縣，以高山景觀和多樣的滑雪道聞名，適合所有滑雪水平",
-    "trailCount": 22,
-    "liftCount": 6,
-    "elevation": "830-1550",
-    "maxSlope": 37,
-    "longestRun": 4600,
+    "name": "斑尾高原滑雪場",
+    "description": "斑尾高原滑雪場100字簡介",
+    "trailCount": 31,
+    "liftCount": 11,
+    "elevation": "910-1350m",
+    "maxSlope": 36,
+    "longestRun": 2500,
     "trailDifficulty": {
-      "beginner": 35,
-      "intermediate": 45,
+      "beginner": 30,
+      "intermediate": 35,
+      "advanced": 35
+    },
+    "trailComposition": {
+      "groomed": 60,
+      "ungroomed": 40
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/斑尾高原滑雪場.png",
+    "websiteUrl": "https://www.madarao.jp/"
+  },
+  {
+    "name": "白馬47滑雪場",
+    "description": "白馬47滑雪場100字簡介",
+    "trailCount": 8,
+    "liftCount": 5,
+    "elevation": "820-1614m",
+    "maxSlope": 32,
+    "longestRun": 6400,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 35,
+      "advanced": 25
+    },
+    "trailComposition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/白馬47滑雪場.png",
+    "websiteUrl": "https://www.hakuba47.co.jp/"
+  },
+  {
+    "name": "白馬岩岳滑雪場",
+    "description": "白馬岩岳滑雪場100字簡介",
+    "trailCount": 26,
+    "liftCount": 8,
+    "elevation": "750-1289m",
+    "maxSlope": 35,
+    "longestRun": 3800,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 50,
       "advanced": 20
     },
     "trailComposition": {
       "groomed": 80,
       "ungroomed": 20
     },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/神居滑雪場.png",
-    "websiteUrl": "https://www.kamui-skilinks.com/"
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/白馬岩岳滑雪場.png",
+    "websiteUrl": "https://iwatake-mountain-resort.com/winter"
   }
 ]
