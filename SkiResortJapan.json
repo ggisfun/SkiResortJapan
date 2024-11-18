@@ -268,9 +268,9 @@
     "maxSlope": 33,
     "longestRun": 2500,
     "trailDifficulty": {
-      "beginner": 25,
-      "intermediate": 75,
-      "advanced": 0
+      "beginner": 35,
+      "intermediate": 45,
+      "advanced": 20
     },
     "trailComposition": {
       "groomed": 75,
