@@ -560,46 +560,6 @@
     "websiteUrl": "https://www.happo-one.jp/"
   },
   {
-    "name": "妙高杉之原滑雪場",
-    "description": "妙高杉之原滑雪場位於新潟縣妙高市，是以寬廣雪道和長距離滑行聞名的滑雪場，擁有高達8.5公里的連續滑行路線。此地雪質優良，積雪量豐富，適合不同程度的滑雪者，特別受家庭和中級滑雪者歡迎。滑雪場提供現代化纜車設施，讓遊客輕鬆抵達高處滑道。妙高杉之原的滑雪場還以壯麗的妙高山景色聞名，讓滑雪者在滑行中享受美景。周邊設有溫泉和住宿，提供完整的冬季度假體驗。",
-    "trailCount": 16,
-    "liftCount": 5,
-    "elevation": "731-1855",
-    "maxSlope": 38,
-    "longestRun": 8500,
-    "trailDifficulty": {
-      "beginner": 40,
-      "intermediate": 40,
-      "advanced": 20
-    },
-    "trailComposition": {
-      "groomed": 80,
-      "ungroomed": 20
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/妙高杉之原滑雪場.png",
-    "websiteUrl": "http://www.princehotels.co.jp/ski/myoko/"
-  },
-  {
-    "name": "栂池高原滑雪場",
-    "description": "栂池高原滑雪場位於長野縣白馬地區，是適合家庭和初學者的滑雪勝地。以其寬闊的雪道和平緩的坡度著稱，初學者能在此輕鬆學習滑雪技巧。滑雪場提供豐富的雪上活動，包括滑雪板和雪橇，讓各年齡層的遊客都能享受樂趣。栂池高原的風景優美，四周環繞著日本阿爾卑斯山，滑雪時能欣賞到壯麗的雪山景色。此外，該地設有餐飲和住宿設施，提供便利的冬季度假體驗。",
-    "trailCount": 9,
-    "liftCount": 18,
-    "elevation": "800-1704",
-    "maxSlope": 35,
-    "longestRun": 4900,
-    "trailDifficulty": {
-      "beginner": 50,
-      "intermediate": 30,
-      "advanced": 20
-    },
-    "trailComposition": {
-      "groomed": 70,
-      "ungroomed": 30
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/栂池高原滑雪場.png",
-    "websiteUrl": "https://www.tsugaike.gr.jp/"
-  },
-  {
     "name": "白馬乘鞍溫泉滑雪場",
     "description": "白馬乘鞍溫泉滑雪場位於日本長野縣，是一個結合滑雪與溫泉的理想勝地。這裡擁有多樣化的雪道，適合從初學者到高級滑雪者，特別適合家庭和團體遊客。滑雪場以豐富的天然積雪和寬闊的滑行空間著稱，提供愉快的滑雪體驗。滑雪後，遊客可在當地的天然溫泉放鬆身心，享受雪山中的溫暖泡湯體驗。滑雪場周邊設有多樣的餐飲和住宿選擇，是冬季旅遊和滑雪度假的理想地點。",
     "trailCount": 12,
@@ -640,46 +600,6 @@
     "websiteUrl": "http://www.hakubaescal.com/"
   },
   {
-    "name": "奧志賀高原滑雪場",
-    "description": "奧志賀高原滑雪場位於長野縣志賀高原，是日本滑雪愛好者心中的高級滑雪場之一。以其廣闊的雪道、豐富的自然雪和高品質的滑雪體驗著稱。滑雪場擁有多樣的雪道，適合從初學者到專業滑雪者，並提供挑戰性滑道和越野滑雪選項。奧志賀高原滑雪場與志賀高原其他滑雪場相連，構成龐大的滑雪網絡。周圍環境優美，擁有餐廳、住宿設施和溫泉，讓遊客在滑雪後享受放鬆時光，是冬季滑雪和度假的理想地點。",
-    "trailCount": 10,
-    "liftCount": 6,
-    "elevation": "1470-2000",
-    "maxSlope": 30,
-    "longestRun": 2200,
-    "trailDifficulty": {
-      "beginner": 20,
-      "intermediate": 60,
-      "advanced": 20
-    },
-    "trailComposition": {
-      "groomed": 90,
-      "ungroomed": 10
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/奧志賀高原滑雪場.png",
-    "websiteUrl": "http://www.okushiga.jp/"
-  },
-  {
-    "name": "斑尾高原滑雪場",
-    "description": "斑尾高原滑雪場位於長野縣與新潟縣交界，是一個受家庭及滑雪愛好者喜愛的度假勝地。滑雪場提供多樣的雪道選擇，包括適合初學者的寬闊緩坡和挑戰性滑雪者的陡峭路段。其獨特之處在於擁有美麗的自然森林滑雪區域，讓滑雪者在樹林間滑行，享受特別的雪上體驗。雪場設施完善，設有纜車、餐飲及滑雪學校，適合各年齡層。斑尾高原周邊還提供豐富的住宿選擇和溫泉設施，是冬季度假放鬆的理想場所。",
-    "trailCount": 31,
-    "liftCount": 11,
-    "elevation": "910-1350",
-    "maxSlope": 36,
-    "longestRun": 2500,
-    "trailDifficulty": {
-      "beginner": 30,
-      "intermediate": 35,
-      "advanced": 35
-    },
-    "trailComposition": {
-      "groomed": 60,
-      "ungroomed": 40
-    },
-    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/斑尾高原滑雪場.png",
-    "websiteUrl": "https://www.madarao.jp/"
-  },
-  {
     "name": "白馬47滑雪場",
     "description": "白馬47滑雪場位於日本長野縣，是白馬地區受歡迎的滑雪勝地之一。該滑雪場以多樣化的雪道和良好的雪質而聞名，吸引不同程度的滑雪者。滑雪場與白馬五龍滑雪場相連，形成廣闊的滑雪網絡，提供長距離滑行體驗。白馬47擁有設施齊全的纜車和升降機，並提供滑雪課程和雪上活動。這裡還有適合滑雪板愛好者的公園設施和挑戰性雪道。周邊有餐廳和住宿選擇，為遊客提供便利的冬季度假服務。",
     "trailCount": 8,
@@ -718,6 +638,86 @@
     },
     "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/白馬岩岳滑雪場.png",
     "websiteUrl": "https://iwatake-mountain-resort.com/winter"
+  },
+  {
+    "name": "妙高杉之原滑雪場",
+    "description": "妙高杉之原滑雪場位於新潟縣妙高市，是以寬廣雪道和長距離滑行聞名的滑雪場，擁有高達8.5公里的連續滑行路線。此地雪質優良，積雪量豐富，適合不同程度的滑雪者，特別受家庭和中級滑雪者歡迎。滑雪場提供現代化纜車設施，讓遊客輕鬆抵達高處滑道。妙高杉之原的滑雪場還以壯麗的妙高山景色聞名，讓滑雪者在滑行中享受美景。周邊設有溫泉和住宿，提供完整的冬季度假體驗。",
+    "trailCount": 16,
+    "liftCount": 5,
+    "elevation": "731-1855",
+    "maxSlope": 38,
+    "longestRun": 8500,
+    "trailDifficulty": {
+      "beginner": 40,
+      "intermediate": 40,
+      "advanced": 20
+    },
+    "trailComposition": {
+      "groomed": 80,
+      "ungroomed": 20
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/妙高杉之原滑雪場.png",
+    "websiteUrl": "http://www.princehotels.co.jp/ski/myoko/"
+  },
+  {
+    "name": "栂池高原滑雪場",
+    "description": "栂池高原滑雪場位於長野縣白馬地區，是適合家庭和初學者的滑雪勝地。以其寬闊的雪道和平緩的坡度著稱，初學者能在此輕鬆學習滑雪技巧。滑雪場提供豐富的雪上活動，包括滑雪板和雪橇，讓各年齡層的遊客都能享受樂趣。栂池高原的風景優美，四周環繞著日本阿爾卑斯山，滑雪時能欣賞到壯麗的雪山景色。此外，該地設有餐飲和住宿設施，提供便利的冬季度假體驗。",
+    "trailCount": 9,
+    "liftCount": 18,
+    "elevation": "800-1704",
+    "maxSlope": 35,
+    "longestRun": 4900,
+    "trailDifficulty": {
+      "beginner": 50,
+      "intermediate": 30,
+      "advanced": 20
+    },
+    "trailComposition": {
+      "groomed": 70,
+      "ungroomed": 30
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/栂池高原滑雪場.png",
+    "websiteUrl": "https://www.tsugaike.gr.jp/"
+  },
+  {
+    "name": "奧志賀高原滑雪場",
+    "description": "奧志賀高原滑雪場位於長野縣志賀高原，是日本滑雪愛好者心中的高級滑雪場之一。以其廣闊的雪道、豐富的自然雪和高品質的滑雪體驗著稱。滑雪場擁有多樣的雪道，適合從初學者到專業滑雪者，並提供挑戰性滑道和越野滑雪選項。奧志賀高原滑雪場與志賀高原其他滑雪場相連，構成龐大的滑雪網絡。周圍環境優美，擁有餐廳、住宿設施和溫泉，讓遊客在滑雪後享受放鬆時光，是冬季滑雪和度假的理想地點。",
+    "trailCount": 10,
+    "liftCount": 6,
+    "elevation": "1470-2000",
+    "maxSlope": 30,
+    "longestRun": 2200,
+    "trailDifficulty": {
+      "beginner": 20,
+      "intermediate": 60,
+      "advanced": 20
+    },
+    "trailComposition": {
+      "groomed": 90,
+      "ungroomed": 10
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/奧志賀高原滑雪場.png",
+    "websiteUrl": "http://www.okushiga.jp/"
+  },
+  {
+    "name": "斑尾高原滑雪場",
+    "description": "斑尾高原滑雪場位於長野縣與新潟縣交界，是一個受家庭及滑雪愛好者喜愛的度假勝地。滑雪場提供多樣的雪道選擇，包括適合初學者的寬闊緩坡和挑戰性滑雪者的陡峭路段。其獨特之處在於擁有美麗的自然森林滑雪區域，讓滑雪者在樹林間滑行，享受特別的雪上體驗。雪場設施完善，設有纜車、餐飲及滑雪學校，適合各年齡層。斑尾高原周邊還提供豐富的住宿選擇和溫泉設施，是冬季度假放鬆的理想場所。",
+    "trailCount": 31,
+    "liftCount": 11,
+    "elevation": "910-1350",
+    "maxSlope": 36,
+    "longestRun": 2500,
+    "trailDifficulty": {
+      "beginner": 30,
+      "intermediate": 35,
+      "advanced": 35
+    },
+    "trailComposition": {
+      "groomed": 60,
+      "ungroomed": 40
+    },
+    "mapUrl": "https://raw.githubusercontent.com/ggisfun/SkiResortJapan/main/斑尾高原滑雪場.png",
+    "websiteUrl": "https://www.madarao.jp/"
   },
   {
     "name": "龍王滑雪公園",
